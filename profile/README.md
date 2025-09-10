@@ -39,7 +39,7 @@ Stay ahead of the curve with FreshTracks – your go-to app for the latest music
 
 My Colleagues: Stay Connected with Your Team
 
-[Website](https://widgets.nxtsoft.nl/mycolleagues) | [Store](https://apps.microsoft.com/detail/9NN62L0K03R5?mode=direct&cid=nxtsoftnlGithub)
+[Website](https://widgets.nxtsoft.nl/mycolleagues) | [Store](https://apps.microsoft.com/detail/9plkfzwxhfch?mode=direct&cid=nxtsoftnlGithub)
 
 
 ### Trending Documents 
