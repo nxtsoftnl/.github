@@ -47,3 +47,11 @@ My Colleagues: Stay Connected with Your Team
 Stay Informed with Trending Documents in Your Workplace!
 
 [Website](https://widgets.nxtsoft.nl/trendingdocuments) | [Store](https://apps.microsoft.com/detail/9NRT2G79TP8W?mode=direct&cid=nxtsoftnlGithub)
+
+
+### PulseHub
+
+GitHub at a Glance on Windows 11
+Stay effortlessly in sync with your development workflow—right from your Windows 11 dashboard.
+
+[Website](https://widgets.nxtsoft.nl/pulsehub) | [Store](https://apps.microsoft.com/detail/9nlrt2k359sc?mode=direct&cid=nxtsoftnlGithub)
