@@ -55,3 +55,11 @@ GitHub at a Glance on Windows 11
 Stay effortlessly in sync with your development workflow—right from your Windows 11 dashboard.
 
 [Website](https://widgets.nxtsoft.nl/pulsehub) | [Store](https://apps.microsoft.com/detail/9nlrt2k359sc?mode=direct&cid=nxtsoftnlGithub)
+
+
+### Task Sphere
+
+Task Sphere – Your Tasks, Always Within Reach
+Task Sphere brings your daily to‑dos straight to the Windows 11 widget board, giving you instant access to the things that matter. Whether you use Microsoft To Do, Office 365, or Google Tasks, Task Sphere unifies your lists into a clean, customizable widget experience.
+
+[Website](https://widgets.nxtsoft.nl/tasksphere) | [Store](https://apps.microsoft.com/detail/9pkx1l5rndql?mode=direct&cid=nxtsoftnlGithub)
